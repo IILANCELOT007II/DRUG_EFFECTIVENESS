@@ -4,10 +4,4 @@ A new pharmaceutical startup has recently been acquired by one of the world's la
 
 
 DATASET:
-
 The dataset consists of certain parameters such as the drug's name, reviews by patients, popularity and use cases of the drug, and more. 
-
-The benefits of practicing this problem by using Machine Learning techniques are as follows:
-
-    This challenge will encourage you to apply your Machine Learning skills to build models that can predict the effectiveness of a certain drug to cure an STD
-    This challenge will help you enhance your knowledge of Natural Language Processing (NLP)
